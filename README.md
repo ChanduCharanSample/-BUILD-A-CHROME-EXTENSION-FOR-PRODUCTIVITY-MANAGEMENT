@@ -82,4 +82,9 @@ The Productivity Tracker Chrome Extension is a privacy-friendly, easy-to-use too
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/2eaf01fa-e778-4866-8576-b30911c1e070)
+
+![Image](https://github.com/user-attachments/assets/db557fe1-674c-4626-9a89-4b8f40557c96)
+
+![Image](https://github.com/user-attachments/assets/5e4927c4-bdd3-4ba9-8b5f-a68587c7e9fe)
 
